@@ -1,0 +1,12 @@
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\bin\Debug\netcoreapp2.1\NeelTwitterApp.deps.json
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\bin\Debug\netcoreapp2.1\NeelTwitterApp.runtimeconfig.json
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\bin\Debug\netcoreapp2.1\NeelTwitterApp.runtimeconfig.dev.json
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\bin\Debug\netcoreapp2.1\NeelTwitterApp.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\bin\Debug\netcoreapp2.1\NeelTwitterApp.pdb
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.csprojResolveAssemblyReference.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.AssemblyInfoInputs.cache
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.AssemblyInfo.cs
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.dll
+C:\Users\E074368\documents\visual studio 2017\Projects\NeelTwitterApp\NeelTwitterApp\obj\Debug\netcoreapp2.1\NeelTwitterApp.pdb
